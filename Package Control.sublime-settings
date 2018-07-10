@@ -1,0 +1,26 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"ayu",
+		"Color Scheme - Legacy",
+		"Dockerfile Syntax Highlighting",
+		"EditorConfig",
+		"Emmet",
+		"Go To Definition",
+		"JsPrettier",
+		"nginx",
+		"Package Control",
+		"PHP Companion",
+		"Sass",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Vue Syntax Highlight"
+	]
+}
